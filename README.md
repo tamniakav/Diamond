@@ -1,0 +1,2 @@
+# Diamond
+Just another repository
